@@ -50,3 +50,4 @@
 ![change background](https://github.com/damlaervakasal/js-mulakat-sorulari/blob/main/jpg/40.jpg)
 ![change background](https://github.com/damlaervakasal/js-mulakat-sorulari/blob/main/jpg/41.jpg)
 
+
